@@ -2,7 +2,7 @@
 
 This repository contains runnable notebooks that allow you to have a glimpse of the workflow of mlflow, the notebooks are designed in a way that is very concise, with each notebook having ~ 5 minutes read. For further reference, you may take a look at the references in mlflow_resources notebook and the official documentation.
 
-Thank You Carnot for providing such a wonderful internship experience.
+Thank You Carnot Innovations for providing such a wonderful internship experience.
 
 ### **1. MLflow Local Edition**
 - Installation of mlflow
